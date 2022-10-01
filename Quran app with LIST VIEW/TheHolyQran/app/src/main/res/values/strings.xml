@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Holy Quran</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Holy Quran</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_para">Para Index</string>
+    <string name="menu_surah">Surah Index</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_know">Know More</string>
+</resources>

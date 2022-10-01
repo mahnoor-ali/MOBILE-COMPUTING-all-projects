@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/font-v26/noorehuda_arabic.xml" value="0.21666666666666667" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/font/noorehuda.xml" value="0.16822916666666668" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/font/noorehuda_arabic.xml" value="0.16171875" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout-v26/activity_ayat_list_view.xml" value="0.18541666666666667" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_ayat_list_view.xml" value="0.22" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_index_list_view.xml" value="0.33" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_index_listview.xml" value="0.18541666666666667" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_know_more.xml" value="0.18" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_para_index.xml" value="0.18645833333333334" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_search_popup.xml" value="0.18" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_surah_index.xml" value="0.17239583333333333" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/activity_surah_view.xml" value="0.22" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/app_bar_main.xml" value="0.25" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/content_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/fragment_gallery.xml" value="0.16394927536231885" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/fragment_para.xml" value="0.18645833333333334" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/fragment_slideshow.xml" value="0.18645833333333334" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/layout/surah.xml" value="0.18645833333333334" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
+        <entry key="..\:/Desktop/semester-6/MobileComputing/AndroidStudioProjects/TheHolyQran/app/src/main/res/menu/main.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
